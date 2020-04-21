@@ -1,0 +1,13 @@
+.user-container{
+    display: flex;
+    background-color: rgba(177, 163, 192, 0.39);
+}
+.people{
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid rgb(88, 98, 139);
+}
+.count{
+    color: rgb(73, 75, 67);
+}
