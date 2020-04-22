@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import People from '../../fakeData/People';
-import { useState } from 'react/cjs/react.development';
+
 import './User.css';
 import Profile from '../Profile/Profile';
 
