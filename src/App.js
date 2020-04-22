@@ -7,10 +7,9 @@ import User from './Components/User/User';
 function App() {
   return (
     <div>
-      <Header></Header>
-      <User></User>
-
-    </div>
+     <Header></Header>
+     <User></User>
+     </div>
   );
 }
 
